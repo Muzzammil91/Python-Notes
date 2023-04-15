@@ -1,4 +1,4 @@
-# make a 5X5 array with 1 on outside dimensions then 0 on inside dimensions then 91 in Center.
+# make a 5X5 array with 1 on outside dimensions then 0 on inside dimensions then 7 in Center.
 
 import numpy as np
 
