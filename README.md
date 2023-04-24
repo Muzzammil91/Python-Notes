@@ -1,7 +1,7 @@
 # Python-Notes
 
 ## Libraries
-### Numpy 
+### NLTK 
   -> incomplete
 ### Numpy 
   -> complete
